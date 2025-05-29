@@ -1,6 +1,3 @@
-Test 1
-Test 2
-Test 3
-Test 4
-Test 5
-Test 6
+# NFT Marketplace
+
+This system of contracts for an NFT marketplace is meant to test BuildBear's CI/CD system with Foundry.
