@@ -75,6 +75,6 @@ jobs:
               }
             ]
           deploy-command: ""
-          buildbear-token: ${{ secrets.BUILDBEAR_TOKEN }}
+          buildbear-token: e312dfe9-b6ff-43b5-9cb7-5839f4889e63
         env:
-          API_KEY: ${{ secrets.BUILDBEAR_TOKEN }}
+          API_KEY: e312dfe9-b6ff-43b5-9cb7-5839f4889e63
